@@ -1,2 +1,3 @@
 # odin-landing-page
-website landing page, html &amp; css. layout structured using flexbox.
+website landing page, html and css.
+Practice of using flexbox to achieve a given design template. 
